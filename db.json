@@ -1,0 +1,244 @@
+{
+  "list-of-clients": [
+    {
+      "id": 137260886072,
+      "name": "Evgeniy1",
+      "surname": "Ponomarev",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "30.09.20 17:20"
+    },
+    {
+      "id": 192985440302,
+      "name": "Антон ",
+      "surname": "Антонов",
+      "sex": "male",
+      "program_of_loyalty": 123,
+      "date": "30.09.20 17:20"
+    },
+    {
+      "id": 139015740239,
+      "name": "Иван",
+      "surname": "Иванов",
+      "sex": "male",
+      "program_of_loyalty": 12321312321312,
+      "date": "30.09.20 17:24"
+    },
+    {
+      "id": 159191567829,
+      "name": "Андрей ",
+      "surname": "Данилов",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "30.09.20 17:35"
+    },
+    {
+      "id": 184516667027,
+      "name": "Светлана ",
+      "surname": "123",
+      "sex": "female",
+      "program_of_loyalty": "not available",
+      "date": "30.09.20 17:36"
+    },
+    {
+      "id": 123430172278,
+      "name": "Олег ",
+      "surname": "Вавилов",
+      "sex": "male",
+      "program_of_loyalty": 12312321313,
+      "date": "01.10.20 14:11"
+    },
+    {
+      "id": 127177415440,
+      "name": "семен",
+      "surname": "семенов",
+      "sex": "female",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:11"
+    },
+    {
+      "id": 130858240682,
+      "name": "Владислав ",
+      "surname": "Кузнецов",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:12"
+    },
+    {
+      "id": 189674356930,
+      "name": "Иван",
+      "surname": "Олегов",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:12"
+    },
+    {
+      "id": 142033839044,
+      "name": "Валерий",
+      "surname": "Смирнов",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:12"
+    },
+    {
+      "id": 196161031061,
+      "name": "Алексей ",
+      "surname": "Марченко",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:13"
+    },
+    {
+      "id": 144143599280,
+      "name": "Александр",
+      "surname": "Попов",
+      "sex": "male",
+      "program_of_loyalty": "mobile app",
+      "date": "01.10.20 14:13"
+    },
+    {
+      "id": 167836153848,
+      "name": "Василий",
+      "surname": "Соколов",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:13"
+    },
+    {
+      "id": 110884217960,
+      "name": "Евгений ",
+      "surname": "Ершов",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:13"
+    },
+    {
+      "id": 177695018916,
+      "name": "Василий",
+      "surname": "Никитин",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:27"
+    },
+    {
+      "id": 184891168201,
+      "name": "Константин",
+      "surname": "Кириллов",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:27"
+    },
+    {
+      "id": 110288126989,
+      "name": "Олег",
+      "surname": "Савельев",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:28"
+    },
+    {
+      "id": 104041017088,
+      "name": "Дмитрий",
+      "surname": "Егоров",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:28"
+    },
+    {
+      "id": 170440813087,
+      "name": "Виталий ",
+      "surname": "Чернов",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:28"
+    },
+    {
+      "id": 171167249843,
+      "name": "Денис",
+      "surname": "Дорофеев",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:29"
+    },
+    {
+      "id": 172155310048,
+      "name": "Сергей",
+      "surname": "Морозов",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:29"
+    },
+    {
+      "id": 188425000367,
+      "name": "Геннадий",
+      "surname": "Ионов",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:29"
+    },
+    {
+      "id": 164435678695,
+      "name": "Геннадий",
+      "surname": "Ионов",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:29"
+    },
+    {
+      "id": 158813565451,
+      "name": "Максим ",
+      "surname": "Сидоров",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:30"
+    },
+    {
+      "id": 192298989207,
+      "name": "Артем",
+      "surname": "Суворов",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:30"
+    },
+    {
+      "id": 174397575009,
+      "name": "Артур",
+      "surname": "Осипов",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:30"
+    },
+    {
+      "id": 197100686675,
+      "name": "Татьяна",
+      "surname": "Нестерова",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 14:30"
+    },
+    {
+      "id": 141897778877,
+      "name": "new",
+      "surname": "user",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 16:51"
+    },
+    {
+      "id": 142022682696,
+      "name": "Олег",
+      "surname": "Ванилов",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 17:00"
+    },
+    {
+      "id": 131609389888,
+      "name": "123",
+      "surname": "123",
+      "sex": "male",
+      "program_of_loyalty": "not available",
+      "date": "01.10.20 18:17"
+    }
+  ]
+}

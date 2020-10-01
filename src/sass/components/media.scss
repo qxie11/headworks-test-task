@@ -1,0 +1,41 @@
+// MAIN// MAIN// MAIN// MAIN// MAIN// MAIN
+// MAIN// MAIN// MAIN// MAIN// MAIN// MAIN
+// MAIN// MAIN// MAIN// MAIN// MAIN// MAIN
+
+@media (max-width: 1200px) {
+    .main__list {
+        width: 90%;
+    }
+}
+
+// ABOUT// ABOUT// ABOUT// ABOUT// ABOUT
+// ABOUT// ABOUT// ABOUT// ABOUT// ABOUT
+// ABOUT// ABOUT// ABOUT// ABOUT// ABOUT
+
+@media (max-width: 1200px) {
+    .about-me {
+        .container {
+            width: 90%;
+        }
+
+        &__text {
+            font-size: 17px;
+            word-break: break-all;
+        }
+    }
+}
+
+// REGISTRATION // REGISTRATION // REGISTRATION
+// REGISTRATION // REGISTRATION // REGISTRATION
+// REGISTRATION // REGISTRATION // REGISTRATION
+
+@media (max-width: 700px) {
+    .registration__area {
+        width: 300px;
+        left: calc(50% - 150px);
+    }
+
+    .registration__form-button {
+        font-size: 16px;
+    }
+}

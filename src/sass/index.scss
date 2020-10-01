@@ -1,0 +1,14 @@
+@import "./components/main.scss";
+@import "./components/registration.scss";
+@import "./components/about-me.scss";
+@import "./components/media.scss";
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Montserrat", Arial, sans-serif;
+    height: 100vh;
+    overflow: hidden;
+}
